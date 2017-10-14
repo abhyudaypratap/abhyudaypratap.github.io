@@ -1,4 +1,21 @@
-baseURL = "http://example.org/"
+baseURL = "http://abhyudaypratap.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Profile"
 theme = "hugo-theme-nix"
+[params]
+  GithubID = "abhyudaypratap"
+  TwitterID = "abhyudaypratap_"
+  LinkedInID = "abhyudaypratap"
+  TelegramID = "abhyudaypratap"
+  Name = "Abhyuday Pratap Singh"
+  HeaderUsername = "aps"
+  HeaderHostname = "home"
+  Email = "abhyudaypratap@outlook.com"
+  About = "Machine Learning Engineer"
+  ProfilePicture = "https://goo.gl/rwRWXh"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
