@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://abhyudaypratap.com/posts/my-first-post/</loc>
+    <loc>https://abhyudaypratap.com/posts/my-first-post/</loc>
     <lastmod>2017-10-15T01:57:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://abhyudaypratap.com/categories/</loc>
+    <loc>https://abhyudaypratap.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://abhyudaypratap.com/posts/</loc>
-    <lastmod>2017-10-15T01:57:07+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://abhyudaypratap.com/</loc>
+    <loc>https://abhyudaypratap.com/posts/</loc>
     <lastmod>2017-10-15T01:57:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://abhyudaypratap.com/tags/</loc>
+    <loc>https://abhyudaypratap.com/</loc>
+    <lastmod>2017-10-15T01:57:07+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhyudaypratap.com/tags/</loc>
     <priority>0</priority>
   </url>
   
